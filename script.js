@@ -117,7 +117,7 @@ function draw(){
   strokeWeight(size/15);
   text("ClubHatch", width/2, height*.4);
   text("IskGroup", width/2, height*.5);
-  text("▲", width/2, height*.6);
+  text("🍾", width/2, height*.6);
   
 }
 
